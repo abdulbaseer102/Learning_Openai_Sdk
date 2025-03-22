@@ -39,7 +39,7 @@ Defines the core **AI agent** structure, including:
 - Handles **real-time AI response streaming** using Chainlit.
 - Ensures smooth and continuous message delivery.
 
-### 7. `tool.py`
+### 8. `tool.py`
 
 - Provides additional **utility functions** to support AI agents.
 
